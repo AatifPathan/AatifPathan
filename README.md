@@ -18,10 +18,10 @@ I'm a tech enthusiast who loves working across the stack — from configuring pr
 
 ## 🛠️ Tech Toolbox
 
-- **Languages:** Python, Bash, Markdown, HTML
-- **Cloud & Infra:** OpenStack, Azure, VMware, VirtualBox
-- **Networking:** Cisco Packet Tracer, Routing Protocols, Subnetting, VLSM
-- **Tools & Frameworks:** Git, Linux, Tkinter, Jupyter
+- **Languages:** Python, Bash, Markdown, HTML  
+- **Cloud & Infra:** OpenStack, Azure, VMware, VirtualBox  
+- **Networking:** Cisco Packet Tracer, Routing Protocols, Subnetting, VLSM  
+- **Tools & Frameworks:** Git, Linux, Tkinter, Jupyter  
 
 ---
 
@@ -52,13 +52,16 @@ I'm a tech enthusiast who loves working across the stack — from configuring pr
 
 ## 📈 GitHub Stats & Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AatifPathan&layout=compact&theme=dark" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AatifPathan&show_icons=true&theme=dark" alt="GitHub Stats">
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AatifPathan&layout=compact&theme=dark" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AatifPathan&show_icons=true&theme=dark" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AatifPathan&theme=dark" alt="GitHub Streak">
