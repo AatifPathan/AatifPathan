@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&random=false&width=435&lines=Tech+Enthusiast;Network+Engineer;Cloud+Infrastructure+Expert;Python+Developer;Always+Learning" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30" height="30"> About Me
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 I'm a passionate technology professional with a focus on **efficiency** &   
@@ -19,12 +19,12 @@ with OpenStack to automating tasks with Python.
 
 <br clear="right">
 
-## 🏆 GitHub Trophies
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" height="30"> GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aatifpathan&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## 🛠️ Tech Stack
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30"> Tech Stack
 
 <div align="center">
   
@@ -42,7 +42,7 @@ with OpenStack to automating tasks with Python.
   
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-down: 100px;">Github Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Github Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aatifpathan&show_icons=true&theme=tokyonight" alt="Aatif's GitHub stats" height="170" />
@@ -53,16 +53,18 @@ with OpenStack to automating tasks with Python.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatifpathan&layout=compact&theme=tokyonight&hide_border=false" alt="Most Used Languages" height="170" />
 </div>  
 
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="30"> Always Contributing
 
-##  Always Contributing<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">  
 <div align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="header">
 </div>
 
-##  <img src="https://media.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" width="40" height="60" style="margin-right: 10px;">Connect with me
-<div align="center">
-<a href="https://www.linkedin.com/in/aatif-pathan-93a55a324/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"></a></p>
+## <img src="https://media.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" width="40" height="40"> Connect with me
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/aatif-pathan-93a55a324/" target="blank">
+    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50">
+  </a>
 </div>
 
 ---
@@ -80,5 +82,3 @@ with OpenStack to automating tasks with Python.
 <div align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100">
 </div>
-
-
