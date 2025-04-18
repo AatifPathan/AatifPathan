@@ -5,14 +5,12 @@
 </div>
 
 ## 🚀 About Me
-
-I'm a passionate technology professional with a focus on **efficiency** & 
-**optimization**. 
-
-My work spans across the full stack — from configuring private clouds 
-with OpenStack to automating tasks with Python.
-
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+I'm a passionate technology professional with a focus on **efficiency** &   
+**optimization**.  
+My work spans across the full stack  from configuring private clouds   
+with OpenStack to automating tasks with Python.
 
 - 🔧 Building and simulating networks using **Cisco Packet Tracer**
 - ☁️ Creating private cloud infrastructure with **OpenStack** inside **Azure**
@@ -55,16 +53,9 @@ with OpenStack to automating tasks with Python.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatifpathan&layout=compact&theme=tokyonight&hide_border=false" alt="Most Used Languages" height="170" />
 </div>
 
-## 🔥 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aatifpathan&theme=tokyo-night" alt="Activity Graph" />
-</div>
 
-## 🔥 Recent Activity
 
-<!--START_SECTION:activity-->
-<!-- This section will be automatically updated by a GitHub Action -->
-<!--END_SECTION:activity-->
+## 🔥 Always Contributing
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="header">
@@ -94,44 +85,4 @@ with OpenStack to automating tasks with Python.
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100">
 </div>
 
-<!-- For the snake animation, you need to set up the GitHub Action properly -->
-<!-- Create a folder called .github/workflows in your repository -->
-<!-- Add a YAML file with the following content -->
 
-<!-- 
-To set up the snake animation, create a file at .github/workflows/snake.yml with this content:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *" # every 12 hours
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: aatifpathan
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v2.5.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
--->
-
-<div align="center">
-  <a href="https://github.com/aatifpathan">
-    <img src="https://github.com/aatifpathan/aatifpathan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  </a>
-</div>
