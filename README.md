@@ -42,7 +42,7 @@ with OpenStack to automating tasks with Python.
   
 </div>
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-down: 100px;">Github Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aatifpathan&show_icons=true&theme=tokyonight" alt="Aatif's GitHub stats" height="170" />
@@ -51,17 +51,16 @@ with OpenStack to automating tasks with Python.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatifpathan&layout=compact&theme=tokyonight&hide_border=false" alt="Most Used Languages" height="170" />
-</div>
+</div>  
 
-## <h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Always Contributing</h3>
+
+##  Always Contributing<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">  
 <div align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="header">
 </div>
 
-## <h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🌐 </h3>
-
+##  <img src="https://media.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" width="40" height="60" style="margin-right: 10px;">Connect with me
 <div align="center">
-<p align="center">
 <a href="https://www.linkedin.com/in/aatif-pathan-93a55a324/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"></a></p>
 
 </div>
