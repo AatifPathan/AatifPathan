@@ -1,4 +1,4 @@
-# Hi there, I'm Aatif Pathan 👋
+<h1 align="left">Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Aatif Pathan</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E97F7&center=true&vCenter=true&random=false&width=435&lines=Tech+Enthusiast;Network+Engineer;Cloud+Infrastructure+Expert;Python+Developer;Always+Learning" alt="Typing SVG" />
@@ -57,6 +57,12 @@ with OpenStack to automating tasks with Python.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="header">
+</div>
+
+## <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"> Tech Facts
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=2E97F7&center=true&vCenter=true&random=false&width=1100&height=100&lines=Did+you+know+the+first+computer+bug+was+an+actual+real+moth+in+1947%3F;Surprisingly%2C+the+Firefox+logo+isn't+a+fox...+it's+actually+a+red+panda!;Amazingly%2C+90%25+of+all+data+in+the+world+was+created+in+just+the+last+two+years.;Incredibly%2C+the+first+hard+drive+(1956)+could+store+only+5MB+and+weighed+over+a+ton.;Interestingly%2C+the+first+website+ever+created+is+still+online%3A+info.cern.ch;Historically%2C+Cisco+routers+were+named+after+streets+near+Stanford+University.;Alarmingly%2C+password+'123456'+still+accounts+for+23%25+of+all+data+breaches.;Curiously%2C+the+first+computer+virus+was+created+in+1983+as+an+experiment.;Remarkably%2C+AI+reached+grandmaster+level+in+chess+in+1997%2C+but+not+in+Go+until+2016.;Fascinatingly%2C+the+first+video+game+from+1958+was+called+'Tennis+for+Two.';Significantly%2C+the+first+computer+programmer+was+a+woman+-+Ada+Lovelace.;Surprisingly%2C+Python+was+named+after+'Monty+Python%2C'+not+the+snake.;Astonishingly%2C+there+are+more+mobile+devices+on+Earth+than+people.;Amusingly%2C+the+first+text+message+sent+in+1992+said+'Merry+Christmas.';Impressively%2C+Google+processes+over+40%2C000+search+queries+every+second.;Notably%2C+Amazon+Web+Services+handles+over+1%25+of+all+internet+traffic.;Incredibly%2C+WordPress+powers+over+40%25+of+all+websites+on+the+internet.;Amazingly%2C+smartphones+contain+more+computing+power+than+NASA+had+in+1969.;Interestingly%2C+the+word+'robot'+comes+from+Czech+'robota'+meaning+forced+labor.;Surprisingly%2C+the+QWERTY+keyboard+was+designed+to+slow+typists+down.;Remarkably%2C+a+single+Google+search+uses+energy+to+light+a+60W+bulb+for+17+seconds.;Historically%2C+the+world's+first+domain+name+was+symbolics.com%2C+registered+in+1985.;Alarmingly%2C+approximately+6%2C000+new+computer+viruses+are+released+every+month.;Curiously%2C+Apple's+first+logo+featured+Isaac+Newton+sitting+under+an+apple+tree.;Significantly%2C+the+term+'bug'+in+computing+was+popularized+by+Grace+Hopper.;Amusingly%2C+the+first+webcam+was+invented+to+monitor+a+coffee+pot+at+Cambridge.;Fascinatingly%2C+people+blink+7+times+per+minute+using+computers+vs+normal+15-20+times.;Surprisingly%2C+the+first+mouse+was+made+of+wood+and+invented+in+1964.;Impressively%2C+the+internet+processes+2.5+quintillion+bytes+of+data+each+day.;Notably%2C+OpenStack+was+originally+a+joint+project+between+NASA+and+Rackspace.;Interestingly%2C+Linux+was+created+as+a+hobby+by+Linus+Torvalds+when+a+student.;Mysteriously%2C+Bitcoin's+creator%2C+known+as+Satoshi+Nakamoto%2C+remains+anonymous.;Significantly%2C+75%25+of+all+internet+traffic+is+encrypted+as+of+2023.;Surprisingly%2C+the+term+'cloud+computing'+was+inspired+by+network+diagrams." alt="Tech Facts Slideshow" />
 </div>
 
 ## <img src="https://media.giphy.com/media/XECtl1Fa2k8IKU2987/giphy.gif" width="40" height="40"> Connect with me
