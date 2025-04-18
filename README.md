@@ -53,20 +53,17 @@ with OpenStack to automating tasks with Python.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatifpathan&layout=compact&theme=tokyonight&hide_border=false" alt="Most Used Languages" height="170" />
 </div>
 
-
-
-## 🔥 Always Contributing
-
+## <h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Always Contributing</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="header">
 </div>
 
-## 🌐 Connect With Me
+## <h3 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🌐 </h3>
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aatif-pathan-93a55a324/)
-  
+<p align="center">
+<a href="https://www.linkedin.com/in/aatif-pathan-93a55a324/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50"></a></p>
+
 </div>
 
 ---
