@@ -19,11 +19,6 @@ with OpenStack to automating tasks with Python.
 
 <br clear="right">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" height="30"> GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aatifpathan&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30"> Tech Stack
 
 <div align="center">
@@ -41,17 +36,6 @@ with OpenStack to automating tasks with Python.
   [![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/)
   
 </div>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30"> Github Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aatifpathan&show_icons=true&theme=tokyonight" alt="Aatif's GitHub stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aatifpathan&theme=tokyonight" alt="GitHub Streak" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatifpathan&layout=compact&theme=tokyonight&hide_border=false" alt="Most Used Languages" height="170" />
-</div>  
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="30"> Always Contributing
 
